@@ -1,17 +1,15 @@
-### Câmara dos deputados
+### Brazil's Chamber of Deputies
 
-Uma análise da participação dos parlamentares e partidos nas seções da Câmara 
-dos Deputados.
+An analysis of parliamentarian's participation on the chamber's sessions.
 
-### Perguntas 
-*  Existe oposição no Brasil?
-* Existe coesão dentro dos partidos?
-* Quais são os partidos que votam em conjunto?
-* Existem as alianças políticas?
-* Qual partido realmente governa, tendo seu voto prevalecido na maioria nas
-seções?
+### Questions we aim to answer
+* Does opposition exist in Brazil?
+* Does exist cohesion within parties?
+* Does exist political alliances?
+* Which parties does vote together?
+* Which parties really own the control? (Has majority of votes in most of the sessions)
 
-### Metologia 
+### Methodology
 TBD
 
 ### Stack/Tools
@@ -20,5 +18,5 @@ TBD
 ### FAQ
 TBD
 
-### Licença
+### License
 MIT
